@@ -1,0 +1,15 @@
+body{
+	font-family : Arial, Sans-serif;	
+}
+
+table#buttons_table{
+	font-family : Arial,Sans-serif;	
+	width : 1900;
+	height : 90;
+}
+
+table#display{
+	font-family : Monospace serif;	
+	width : 900;
+	height : 90;
+}
